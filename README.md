@@ -1,5 +1,5 @@
 # 💫 About Me:
-I`m currently learning ReactJS & TypeScript.<br />
+
 You can see more of my projects on my discord shop (link in Socials)<br />
 
 ## 🌐 Socials:
