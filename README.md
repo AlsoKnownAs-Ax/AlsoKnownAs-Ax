@@ -1,6 +1,6 @@
 # 💫 About Me:
-I`m currently learning: ReactJS, TypeScript.
-You can see more of my projects on my discord shop (link in Socials)
+I`m currently learning: ReactJS, TypeScript.<br />
+You can see more of my projects on my discord shop (link in Socials)<br />
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/STkm95vF3N) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/c/UCv7DVeApukzAJSlrIlXbtAw) 
