@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **andreiamzu@yahoo.com**
 
-- 📄 Know about my experiences [[SOON]]([SOON])
+- 📄 Know about my experiences [[CV]](https://docs.google.com/document/d/1eU1PnI9RA8NDMVp7M2HVzPgdVejzqufTcE21SywCXuc/edit?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
