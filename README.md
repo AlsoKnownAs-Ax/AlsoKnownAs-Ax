@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alsoknownas-ax&label=Profile%20views&color=0e75b6&style=flat" alt="alsoknownas-ax" /> </p>
 
-- 🌱 I’m currently learning **C# & Game Development**
+- 🌱 I’m currently learning **Python & TypeScript**
 
 - 📫 How to reach me **andreiamzu@yahoo.com**
 
