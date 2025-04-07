@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **andreiamzu@yahoo.com**
 
-💻 Website: <a href="https://portfolio-amzu-andrei-alexandrus-projects.vercel.app/" target="_blank">Personal Website</a>
+- 💻 Website: <a href="https://portfolio-amzu-andrei-alexandrus-projects.vercel.app/" target="_blank">Personal Website</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
