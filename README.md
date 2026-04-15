@@ -6,10 +6,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alsoknownas-ax&label=Profile%20views&color=0e75b6&style=flat" alt="alsoknownas-ax" /> </p>
 
-- 🌱 I’m currently learning **Python & TypeScript**
-
-- 📫 How to reach me **andreiamzu@yahoo.com**
-
 - 💻 Website: <a href="https://www.amzu-alex.dev" target="_blank">Personal Website</a>
 
 <h3 align="left">Connect with me:</h3>
