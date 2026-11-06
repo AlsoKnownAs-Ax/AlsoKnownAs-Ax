@@ -14,7 +14,7 @@
 - 🛡️ **NATO** — Full Stack Engineer Intern (Mar 2026 – Aug 2026)
 - 🏢 **Qogita** — Software Engineer Intern (Jul 2025 – Feb 2026): seller-portal fulfillment, Next.js App Router migration, SDK generation with hey-api
 - ✈️ **AQI Travel** — Full Stack Developer Intern (Nov 2024 – Jun 2025): B2B dashboard with SvelteKit and Python
-- 🎮 **Freelance** — FiveM Script Developer (Dec 2022 – Sep 2024): Lua game systems, -25% resource use, -50% SQL queries
+- 🎮 **Freelance** — FiveM Script Developer (Dec 2022 – Sep 2024): Lua game systems
 
 <h3 align="left">Featured Projects:</h3>
 
